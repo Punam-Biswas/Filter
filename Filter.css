@@ -1,0 +1,154 @@
+.bg-colr{
+    background-color: #CE0505;
+    height: 5em;
+}
+.line{
+    display: flex;
+
+}
+.b_logo{
+    border-radius: 47px;
+    margin: 13px 0 0 82px;
+    background-color: #fff;
+    height: 51px;
+    width: 51px;
+}
+._account{
+    display: flex;
+    margin-left: 802px;
+    gap: 40px;
+    margin-top: 4px;
+    font-size: 22px;
+    color: #FFFFFF;
+}
+.b_nme{
+    font-weight: bold;
+    font-size: 40px;
+    color: #EB2929;
+    margin: 1px 10px 3px 11px
+}
+.c_account{
+    margin: 10px 0px 19px -7px;
+    border: 2px solid;
+    border-radius: 4px;
+    padding: 11px 11px 9px 13px;
+}
+.login{
+    margin-top: 22px;
+}
+.title{
+    color: #192F60;
+    margin-left: 90px;
+}
+p{
+    color: #192F60;
+    font-weight: 900;
+}
+.cuisine{
+    color: #8C96AB;
+}
+.cost{
+    color: #8C96AB;
+}
+.sort{
+    color: #8C96AB;
+}
+.filter-box{
+    display: inline-block;
+    box-shadow: 0px 4px 10px #00000029;
+    padding: 1px 29px 21px 29px;
+    margin-left: 92px;
+}
+.box-1{
+    display: inline-block;
+    margin-left: 47px;
+    box-shadow: 0px 4px 10px #00000029;
+    vertical-align: top;
+    height: 13em;
+}
+.Img{
+    width: 5em;
+    height: 5em;
+    border-radius: 8px;
+    margin-left: 18px;
+    margin-top: 18px;
+}
+.cakery{
+    color: #192F60;
+    font-weight: 900;
+    font-size: 22px;
+}
+.fort{
+    margin-left: 2px;
+    color: #192F60;
+    font-size: 13px;
+}
+.shop{
+    color: #636F88;
+}
+.btm-box{
+    gap: 29px;
+    display: flex;
+    margin-left: 20px;
+}
+.l-part{
+    display: grid;
+    color: #636F88;
+    font-size: 12px;
+    gap: 8px;
+}
+.r-part{
+    color: #192F60;
+    display: grid;
+    font-size: 12px;
+    gap: 8px;
+}
+._b{
+    display: flex;
+}
+.b-{
+    margin: 24px 14px -3px 28px;
+    display: grid;
+}
+hr{
+    width: 26em;
+}
+.box-2{
+    display: inline-block;
+    margin-left: 338px;
+    box-shadow: 0px 4px 10px #00000029;
+    height: 13em;
+    margin-top: -120em;
+    vertical-align: 125px;
+}
+.page{
+    margin: -56px 0 0 488px;
+    display: flex;
+    gap: 5px;
+}
+.pg-num{
+    font-size: 17px;
+    padding-left: 8px;
+    border: 2px solid #8C96AB;
+    height: 19px;
+    width: 19px;
+    color: #8C96AB;
+    border-radius: 5px;
+}
+.pge-num{
+    font-size: 17px;
+    padding-left: 8px;
+    border: 2px solid #8C96AB;
+    height: 19px;
+    width: 19px;
+    background-color: #8C96AB;
+    border-radius: 5px;
+    color: #ffff;
+}
+.loca{
+    padding-left: 16px;
+    font-size: 21px;
+    width: 103px;
+    border: 2px solid #8C96AB;
+    color: #8C96AB;
+}
